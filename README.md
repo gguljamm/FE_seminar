@@ -9,7 +9,9 @@
 1 왜 vue/nuxt ?
 
 React vs vue
+
 React: 정석 / 원론적 / 어떻게 컴포넌트 기반을 효율적으로? ——> 수학으로 치면 수학의 정석
+
 Vue: 낮은 진입장벽 / 실용성 / 어떻게 컴포넌트 기반을 javascript 계승해서 ——-> 쎈수학?
 
 속도: 최적화잘된 react > 일반적인 vue > 일반적인 react
