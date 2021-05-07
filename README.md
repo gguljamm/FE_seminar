@@ -22,9 +22,13 @@ Typescript : 컴파일언어 엄격한 규칙
 
 라이프사이클
 asyncData data head methods computed mounted create beforeCreate beforeDestroy 
+
 node.js
+
 Nuxt 숙련도를 판가름하는 요소 = 구조설계, 컴포넌트 쪼개기, computed, 
+
 ECMAScript // javascript 표준 arrow function, array function, generator (우아한 성능 저하)
+
 모듈화.
 
 
@@ -38,6 +42,7 @@ ECMAScript // javascript 표준 arrow function, array function, generator (우�
 * 코더
 * 치킨집
 
+--------------------------------------------------------
 
 * BE : 전문화 될 것. 중간 없어지고. 코더 많이질 것. 양극화
 * FE : 범위가 계속 확장. 혹은 BE 없는 개발 가능해질 것.
